@@ -3,6 +3,12 @@ Select the airplane and Launch the flightgear
 
 ## Default Airplanes Available:
 ### Available aircraft:
+| Code | Name |
+| :--: | :--- |
+| 777-200 | Boeing 777-200 |
+
+
+  - 777-200                      Boeing 777-200
   - 777-200                      Boeing 777-200
   - 777-200ER                    Boeing 777-200ER
   - 777-200LR                    Boeing 777-200LR
