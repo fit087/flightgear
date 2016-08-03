@@ -38,3 +38,14 @@ Select the airplane and Launch the flightgear
 | ufo                       |  UFO from the 'White Project' of the UNESCO               |
 | ZLT-NT                    |   Zeppelin NT07 airship                                   |
 | ZLT-NT-copilot           	|    Zeppelin NT07 multiplayer copilot                      |
+
+## Installation
+
+- Airplanes: For install new airplanes, copy from [Aircrafts][1] the airplane folder to
+`/usr/share/games/flightgear/Aircraft`
+- Scenaries: For Download new Scenaries use [TerraMaster][2] with `java -jar terramaster.jar`
+- Airport: Download from [airports fgbr][3] and [flightgearbrasil/aeroportos][4]
+[1]:http://www.flightgear.org/download/aircraft-v3-4/
+[2]:http://wiki.flightgear.org/TerraMaster
+[3]:http://grupofgbr.wix.com/grupofgbr#!__aeroportos
+[4]:https://sites.google.com/site/flightgearbrasil/aeroportos
