@@ -45,6 +45,8 @@ Select the airplane and Launch the flightgear
 `/usr/share/games/flightgear/Aircraft`
 - Scenaries: For Download new Scenaries use [TerraMaster][2] with `java -jar terramaster.jar`
 - Airport: Download from [airports fgbr][3] and [flightgearbrasil/aeroportos][4]
+- Flightgear launcher: Install fgrun - a graphical frontend for running FlightGear with `apt-get install fgrun`
+
 [1]:http://www.flightgear.org/download/aircraft-v3-4/
 [2]:http://wiki.flightgear.org/TerraMaster
 [3]:http://grupofgbr.wix.com/grupofgbr#!__aeroportos
