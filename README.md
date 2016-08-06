@@ -46,10 +46,12 @@ Select the airplane and Launch the flightgear
 - Scenaries: For Download new Scenaries use [TerraMaster][2] with `java -jar terramaster.jar`
 - Airport: Download from [airports fgbr][3] and [flightgearbrasil/aeroportos][4]
 - Flightgear launcher: Install fgrun - a graphical frontend for running FlightGear with `apt-get install fgrun`
-- Route generator for PC flight simulation use [routefinder][5]
+- Air Routes: Route generator for PC flight simulation use [RouteFinder][5]
+- Study Material: [Blind Games Brazil][6]
 
 [1]:http://www.flightgear.org/download/aircraft-v3-4/
 [2]:http://wiki.flightgear.org/TerraMaster
 [3]:http://grupofgbr.wix.com/grupofgbr#!__aeroportos
 [4]:https://sites.google.com/site/flightgearbrasil/aeroportos
 [5]:http://rfinder.asalink.net/free/
+[6]:http://intervox.nce.ufrj.br/~wagner/fs.php
